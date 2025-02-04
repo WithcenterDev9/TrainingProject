@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     let message = $state(null);
 </script>
 
@@ -15,6 +15,7 @@
     #message {
         resize: none;
         border-radius: 20px;
+        border-width: 5px;
         text-align: center;
     }
 </style>
