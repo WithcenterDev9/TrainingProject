@@ -1,5 +1,4 @@
-Another Test
-Testing git pull
+Remove the pull test
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
