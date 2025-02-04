@@ -1,4 +1,4 @@
-Remove the pull test
+Now I am changing the line 1 of the readme file.
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
